@@ -1,0 +1,7 @@
+.about {
+    height: 93%;
+    width: 100vw;
+    background-image: url("../Images/aboutBackground.jpg");
+    background-size: cover;
+    background-position: center;
+}
