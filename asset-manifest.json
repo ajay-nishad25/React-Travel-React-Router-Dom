@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-Travel-React-Router-Dom/static/css/main.22d1f2f6.css",
+    "main.js": "/React-Travel-React-Router-Dom/static/js/main.f2c680b2.js",
+    "static/media/background.jpg": "/React-Travel-React-Router-Dom/static/media/background.37267b97171bfd1d1948.jpg",
+    "static/media/contactBackground.jpg": "/React-Travel-React-Router-Dom/static/media/contactBackground.a0a5479d060564ded894.jpg",
+    "static/media/image1.jpg": "/React-Travel-React-Router-Dom/static/media/image1.998ad2266e11eeca16c0.jpg",
+    "static/media/image10.jpg": "/React-Travel-React-Router-Dom/static/media/image10.0c5fd7129989348a7778.jpg",
+    "static/media/image8.jpg": "/React-Travel-React-Router-Dom/static/media/image8.36571e63c6d48d93b73b.jpg",
+    "static/media/image9.jpg": "/React-Travel-React-Router-Dom/static/media/image9.d634c6250a6317ef6eb2.jpg",
+    "static/media/serviceBackground.jpg": "/React-Travel-React-Router-Dom/static/media/serviceBackground.3c019aa37dadad91f0bf.jpg",
+    "static/media/aboutBackground.jpg": "/React-Travel-React-Router-Dom/static/media/aboutBackground.490120582673f9642a37.jpg",
+    "static/media/image4.jpg": "/React-Travel-React-Router-Dom/static/media/image4.6594aa33439a1d4d6ed4.jpg",
+    "static/media/image3.jpg": "/React-Travel-React-Router-Dom/static/media/image3.e475c1552214848c5992.jpg",
+    "static/media/image7.jpg": "/React-Travel-React-Router-Dom/static/media/image7.4bc4b9fecb954ded0122.jpg",
+    "static/media/image2.jpg": "/React-Travel-React-Router-Dom/static/media/image2.6fe97c1e4229071d99a6.jpg",
+    "static/media/image5.jpg": "/React-Travel-React-Router-Dom/static/media/image5.9eaf9530b570a2166eab.jpg",
+    "static/media/image6.jpg": "/React-Travel-React-Router-Dom/static/media/image6.c226a8829d7377b0c886.jpg",
+    "index.html": "/React-Travel-React-Router-Dom/index.html",
+    "main.22d1f2f6.css.map": "/React-Travel-React-Router-Dom/static/css/main.22d1f2f6.css.map",
+    "main.f2c680b2.js.map": "/React-Travel-React-Router-Dom/static/js/main.f2c680b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22d1f2f6.css",
+    "static/js/main.f2c680b2.js"
+  ]
+}
