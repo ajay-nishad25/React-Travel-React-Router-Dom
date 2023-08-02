@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Travel-React-Router-Dom/static/css/main.22d1f2f6.css",
-    "main.js": "/React-Travel-React-Router-Dom/static/js/main.66abc6fd.js",
+    "main.js": "/React-Travel-React-Router-Dom/static/js/main.2fae3a75.js",
     "static/media/background.jpg": "/React-Travel-React-Router-Dom/static/media/background.37267b97171bfd1d1948.jpg",
     "static/media/contactBackground.jpg": "/React-Travel-React-Router-Dom/static/media/contactBackground.a0a5479d060564ded894.jpg",
     "static/media/image1.jpg": "/React-Travel-React-Router-Dom/static/media/image1.998ad2266e11eeca16c0.jpg",
@@ -18,10 +18,10 @@
     "static/media/image6.jpg": "/React-Travel-React-Router-Dom/static/media/image6.c226a8829d7377b0c886.jpg",
     "index.html": "/React-Travel-React-Router-Dom/index.html",
     "main.22d1f2f6.css.map": "/React-Travel-React-Router-Dom/static/css/main.22d1f2f6.css.map",
-    "main.66abc6fd.js.map": "/React-Travel-React-Router-Dom/static/js/main.66abc6fd.js.map"
+    "main.2fae3a75.js.map": "/React-Travel-React-Router-Dom/static/js/main.2fae3a75.js.map"
   },
   "entrypoints": [
     "static/css/main.22d1f2f6.css",
-    "static/js/main.66abc6fd.js"
+    "static/js/main.2fae3a75.js"
   ]
 }
